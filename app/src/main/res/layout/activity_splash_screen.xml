@@ -20,6 +20,7 @@
         android:src="@drawable/artista"
         android:scaleType="fitCenter"
         android:layout_marginTop="150dp"
+        android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>
