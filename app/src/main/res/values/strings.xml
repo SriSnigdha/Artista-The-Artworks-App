@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Artista</string>
+    <string name="exhibition1">
+        <br>
+            Name : Pratyaksha Karana Art Exhibition\n</br>
+        <br>
+            Venue : Phoenix Arena\n</br>
+        <br>
+            Contact : +91 1111111111\n</br>
+    </string>
+    <string name="exhibition2">
+        <br>
+            Name : Womens Art Exhibition\n</br>
+        <br>
+            Venue : Eswaraiya Art Gallery Arena\n</br>
+    </string>
+</resources>
